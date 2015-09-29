@@ -13,7 +13,7 @@
 	
 	<div class="container">
 
-	      <form action="home/" class="form-signin">
+	      <form action="/home/" class="form-signin">
 
 	        <h2 class="form-signin-heading center"><img src="./static/img/logo_vim.png" alt="logo"></h2>
 	        <label for="inputEmail" class="sr-only">Usuario del Sistema</label>

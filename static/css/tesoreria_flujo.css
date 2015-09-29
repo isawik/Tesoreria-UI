@@ -1,0 +1,33 @@
+form .form-control,
+form .form-group {
+  width: 400px;
+}
+.money {
+  position: fixed;
+  top: 120px;
+  left: 230px;
+  text-transform: uppercase;
+}
+.money .cash {
+  width: 180px;
+  padding-bottom: 20px;
+}
+.money .tab-content {
+  padding-top: 16px;
+}
+.money .tab-content .tab-pane .table thead tr th {
+  text-align: center;
+}
+.jumbotron {
+  position: fixed;
+  top: 130px;
+  left: 240px;
+  width: 80%;
+  text-transform: uppercase;
+  padding-left: 40px;
+  text-align: center;
+}
+.jumbotron .alerts {
+  text-align: center;
+  color: #f00;
+}
